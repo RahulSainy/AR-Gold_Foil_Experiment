@@ -18,7 +18,7 @@ Experience Gold Foil Experiment with Augmented Reality and Learn using Augmented
 install Gold Foil Experiment.exe.
 
 ```bash
-Gold Foil Experiment.exe.exe
+Gold Foil Experiment.exe
 ```
 
 ## Usage
